@@ -1,4 +1,4 @@
-# Leon Template One
+# Leon Template
 
 A clean and simple agency template made with HTML and CSS. It features a responsive menu and a beautiful hero section. Perfect for showcasing your work or services.
 
